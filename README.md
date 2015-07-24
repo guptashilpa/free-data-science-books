@@ -95,6 +95,7 @@ Each entry provides the expected audience for the certain book (beginner, interm
 
 ####Data Visualization
 * [Interactive Data Visualization for the Web] (http://chimera.labs.oreilly.com/books/1230000000345/index.html) - Scott Murray - `Beginner`
+* [D3 Tips and Tricks] (https://leanpub.com/D3-Tips-and-Tricks) - Malcolm Maclean - `Beginner`
 * [Plotting and Visualization in Python] (http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850463/raw/a29d9ffb863bfab09ff6c1fc853e1d5bf69fe3e4/3.+Plotting+and+Visualization.ipynb) - `Beginner`
 
 
